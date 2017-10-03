@@ -27,7 +27,7 @@ flatpak --user install my_local_repo org.openrct2.OpenRCT2
 ```
 You must update your package after each build to get the new version:
 ```
-flatpak --user update
+flatpak --user update org.openrct2.OpenRCT2
 ```
 
 ## Run the application
